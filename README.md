@@ -12,7 +12,7 @@ This is the frontend for the Test Fokuslah project. It is a React application th
 
 ## Features
 
-- Real-time chat with the AI assistant
+- Real-time chat with the AI assistant (using mockup data)
 - Quick chat actions
 - Mathematical rendering
 - Mobile responsiveness
@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/fokuslah/test-fokus-frontend.git
+git clone https://github.com/Endabelyu/test-fokus-frontend.git
 
 cd your-repo
 ```
@@ -70,8 +70,8 @@ bun run dev
 
 3. Use the API key to authenticate your requests to the OpenAI API.
 
-4. Based on i look into documentattion open API and see how to use it. in link [OpenAI API](https://platform.openai.com/docs/api-reference/chat)
-i already use the same format payload to send to the API.
+4. Based on i look into documentation open API and see how to use it. in link [OpenAI API](https://platform.openai.com/docs/api-reference/chat)
+i already use the same format payload to send to the API. We need adjust it accourding to the offical documentation an what model we use.
 <!--
 
 ## Contributing
