@@ -2,6 +2,14 @@
 
 This is the frontend for the Test Fokuslah project. It is a React application that allows users to interact with the AI assistant and receive real-time feedback.
 
+## Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Shadcn UI
+
 ## Features
 
 - Real-time chat with the AI assistant
@@ -63,7 +71,8 @@ bun run dev
 3. Use the API key to authenticate your requests to the OpenAI API.
 
 4. Based on i look into documentattion open API and see how to use it. in link [OpenAI API](https://platform.openai.com/docs/api-reference/chat)
-   i already use the same format payload to send to the API.
+i already use the same format payload to send to the API.
+<!--
 
 ## Contributing
 
@@ -71,4 +80,4 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. -->
