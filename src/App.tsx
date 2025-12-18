@@ -27,10 +27,12 @@ function App() {
 
   // console.log(aiResponse["hint"], "response");
   const simulateResponse = useCallback((responseText: string) => {
+    // get data from response mockupData accoring to responseText
     const textContent = aiResponse[`${responseText}`];
-    // console.log(textContent, "test");
+    // make a loading effect to generate the response
     setIsTyping(true);
-    // Simulate typing delay
+    // Simulate typing delay and set response message
+
     setTimeout(() => {
       const aiMessage: Message = {
         id: nanoid(),
