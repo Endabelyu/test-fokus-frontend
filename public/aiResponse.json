@@ -1,0 +1,6 @@
+{
+  "hint": "Count how many times you need to move the decimal point to the right to get 3.1.",
+  "steps": "1. Identify the first non-zero digit (3).\n2. Place the decimal after it: 3.1.\n3. Count the moves from original position to the new position.\n4. Since you moved right 10 times, the power is negative (-10).",
+  "jojo": "Hi! I'm Jojo 👋, I'm here to help you understand this problem. Ask me anything or use the quick actions above!",
+  "naswa": "Naswa is front-end developer with litle over 2 years experience. He is passionate about building user-friendly and responsive websites. He has a strong background in HTML, CSS, and JavaScript. He is also proficient in React, Next.js, and Tailwind CSS. Naswa is a self-taught developer and has a keen interest in learning new technologies and techniques. He is always eager to learn and improve his skills. If you have any questions or need assistance with your projects, don't hesitate to reach out to him. His contact information is endabelyuproject@gmail.com."
+}
